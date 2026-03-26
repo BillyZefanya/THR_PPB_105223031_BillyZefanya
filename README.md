@@ -4,7 +4,7 @@ Nama Lengkap: Billy Zefanya
 
 NIM: 105223031
 
-Kelas: [Isi Kelas Anda, misal: CS-01]
+Kelas: CS 23 PPB
 
 Deskripsi Profil
 Saya adalah mahasiswa Ilmu Komputer di Universitas Pertamina dengan fokus pada Cybersecurity, khususnya Penetration Testing dan Offensive Security. 
